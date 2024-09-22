@@ -6,4 +6,4 @@ Files found in `/thermofun/` are the up to date database files that can be used 
 
 ## Acknowledgements  
 
-This work had support from the [ETH Domain Open Research Data](https://ethrat.ch/en/eth-domain/open-research-data/) (ORD) Program, [Contribute](https://ethrat.ch/en/measure-1-calls-for-field-specific-actions/) funding scheme.
+This project was supported by the [Open Research Data Program](https://ethrat.ch/en/eth-domain/open-research-data/) of the ETH Board.
